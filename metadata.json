@@ -1,0 +1,8 @@
+
+{
+  "name": "Saldo Devedor MBRF - Sistema de Auditoria",
+  "description": "Uma plataforma avançada para colaboradores auditarem saldos devedores com clareza, utilizando IA para separar valores de negociação de dívidas totais e evitar erros operacionais.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
